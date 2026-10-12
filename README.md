@@ -1,3 +1,4 @@
+![MasterHead](./banner.png)
 <h1 align="center">Hi 👋, I'm Talha Uğurlu</h1>
 <h3 align="center">MIS Student | Software & Game Development • Data Analytics • AI | from Türkiye</h3>
 
