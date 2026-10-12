@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaugurlu930-ux&show_icons=true&locale=en" alt="talhaugurlu930-ux" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaugurlu930-ux&" alt="talhaugurlu930-ux" /></p>
+
+![Snake animation](https://raw.githubusercontent.com/talhaugurlu930-ux/talhaugurlu930-ux/output/github-contribution-grid-snake.svg)
