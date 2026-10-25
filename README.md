@@ -1,78 +1,136 @@
-
 <p align="center">
-  <img src="./banner.png" alt="Talha Uğurlu — Software, Data & Interactive Worlds" width="100%" />
+  <img src="./banner.png" alt="Talha Uğurlu Banner" width="100%" />
 </p>
 
 <h1 align="center">Talha Uğurlu</h1>
 
 <p align="center">
-  <strong>Software • Data • Interactive Worlds</strong><br>
-  <sub>Management Information Systems · Trabzon University · Türkiye</sub>
+  🚀 <strong>Software • Data • Interactive Worlds</strong><br>
+  🎓 Management Information Systems Student | Trabzon University | Türkiye
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/talha-u%C4%9Furlu-851062242/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@talhaugurlu"><img src="https://img.shields.io/badge/Medium-25233A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.youtube.com/@titaniumprojectarts"><img src="https://img.shields.io/badge/Titanium_Project_Arts-F97355?style=for-the-badge&logo=youtube&logoColor=white" alt="Titanium Project Arts" /></a>
-  <a href="mailto:talhaugurlu930@gmail.com"><img src="https://img.shields.io/badge/Contact-7655DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/talha-u%C4%9Furlu-851062242/">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@talhaugurlu">
+    <img src="https://img.shields.io/badge/Medium-1F2937?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@titaniumprojectarts">
+    <img src="https://img.shields.io/badge/Titanium_Project_Arts-F97316?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:talhaugurlu930@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/OOP-0F172A?style=flat-square&logo=databricks&logoColor=F97316" />
+  <img src="https://img.shields.io/badge/Game_Development-0F172A?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-0F172A?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/YBS-0F172A?style=flat-square&logo=googlesheets&logoColor=34D399" />
 </p>
 
 ---
 
-### 01 / WHO I AM
+## 👨‍🚀 About Me
 
-MIS student and emerging developer interested in **Python, SQL, data-driven systems, game development and creative technology**. I enjoy connecting technical problem-solving with history, worldbuilding and interactive storytelling.
+Hi, I'm **Talha Uğurlu** — a **Management Information Systems student** who enjoys building at the intersection of **software, data, creativity and interactive experiences**.
 
-> **Building useful systems and believable worlds.**
+I’m especially interested in:
+- 💻 software development
+- 🧠 analytical thinking and databases
+- 🎮 game systems and worldbuilding
+- 🤖 AI-assisted workflows
+- 📚 storytelling, history and narrative design
 
-### 02 / TECH STACK
+I like projects that are not only functional, but also **structured, meaningful and memorable**.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-172554?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-172554?style=for-the-badge&logo=databricks&logoColor=60A5FA" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-172554?style=for-the-badge&logo=git&logoColor=FB923C" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-172554?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA" alt="VS Code" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OOP-6D28D9?style=flat-square&logo=python&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/Database_Design-6D28D9?style=flat-square&logo=databricks&logoColor=white" alt="Database design" />
-  <img src="https://img.shields.io/badge/Game_Systems-EA580C?style=flat-square&logo=unity&logoColor=white" alt="Game systems" />
-  <img src="https://img.shields.io/badge/AI_Workflows-EA580C?style=flat-square&logo=openai&logoColor=white" alt="AI workflows" />
-</p>
-
-**Currently learning:** Python · Object-Oriented Programming · SQL · Database Systems
-
-**Creative interests:** Game Design · Blender · Narrative Systems · AI-Assisted Workflows
-
-### 03 / SELECTED PROJECTS
-
-| Initiative | Keywords | Status |
-| :--- | :--- | :--- |
-| **[YBS201 — OOP Course Records](https://github.com/talhaugurlu/YBS201-OOP-Ders-Kayitlari)** | `Python` `Classes` `Methods` | ![Public](https://img.shields.io/badge/PUBLIC-2563EB?style=flat-square) |
-| **OtoAkış** | `Operations` `Workflow` | ![Private](https://img.shields.io/badge/PRIVATE-334155?style=flat-square) |
-| **Vargroup** *(working title)* | `Finance` `Desktop` | ![Early](https://img.shields.io/badge/EARLY_STAGE-7C3AED?style=flat-square) |
-| **Kan ve Şöhret** | `Worldbuilding` `Narrative` | ![Creative](https://img.shields.io/badge/CREATIVE_IP-F97316?style=flat-square) |
-
-<sub>Public details are deliberately minimal. Early-stage concepts are not presented as shipped products.</sub>
-
-### 04 / GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhaugurlu&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaugurlu&layout=donut&theme=tokyonight&hide_border=true" height="170" alt="Repository language donut chart" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaugurlu&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
-<sub>Analytics images are supplied by third-party services and may occasionally fail to load. The language chart reflects code in repositories, not skill level.</sub>
-
-### 05 / BEYOND CODE
-
-Historical research, literature and storytelling influence how I think about **structure, evidence and user experience**. **Titanium Project Arts** is my long-term independent creative identity for software and storytelling work.
+> ✨ Building useful systems and believable worlds.
 
 ---
 
-<p align="center"><strong>RESEARCH · DESIGN · BUILD · IMPROVE</strong></p>
+## 🛰️ Mission Focus
+
+I am currently focusing on:
+
+- 🐍 Python & Object-Oriented Programming
+- 🗃️ SQL & Database Logic
+- 🏗️ Practical software development
+- 🎮 Interactive systems & game design
+- 🤖 AI-supported productivity workflows
+
+---
+
+## 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,blender,unity,unreal&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database_Design-2563EB?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Narrative_Design-9333EA?style=for-the-badge&logo=bookstack&logoColor=white" />
+</p>
+
+---
+
+## 📂 Selected Work
+
+| Project | Description | Keywords | Status |
+| :--- | :--- | :--- | :--- |
+| **[YBS201 — OOP Course Records](https://github.com/talhaugurlu/YBS201-OOP-Ders-Kayitlari)** | Personal archive of Python OOP exercises and lecture practice | `Python` `Classes` `Methods` | ![Public](https://img.shields.io/badge/PUBLIC-2563EB?style=flat-square) |
+| **OtoAkış** | Private workflow-oriented idea | `Operations` `Workflow` `Automation` | ![Private](https://img.shields.io/badge/PRIVATE-334155?style=flat-square) |
+| **Vargroup** *(working title)* | Early-stage finance-oriented desktop system idea | `Finance` `Python` `Desktop Systems` | ![In Progress](https://img.shields.io/badge/IN_PROGRESS-7C3AED?style=flat-square) |
+| **Kan ve Şöhret** | Creative universe and long-term narrative world | `Worldbuilding` `Narrative` `Interactive Media` | ![Creative IP](https://img.shields.io/badge/CREATIVE_IP-F97316?style=flat-square) |
+
+<sub>Some projects are intentionally presented with limited public detail.</sub>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talhaugurlu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaugurlu&layout=donut&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=talhaugurlu&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaugurlu&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🌌 Creative Direction
+
+Beyond code, I care about **ideas, structure, atmosphere and storytelling**.
+
+**Titanium Project Arts** represents my long-term creative direction — a space where software, game concepts, digital production and narrative thinking can come together under one identity.
+
+---
+
+## 📡 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/talha-u%C4%9Furlu-851062242/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://medium.com/@talhaugurlu">Medium</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.youtube.com/@titaniumprojectarts">Titanium Project Arts</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:talhaugurlu930@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  <sub>🪐 Research • Design • Build • Improve</sub>
+</p>
