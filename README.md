@@ -1,73 +1,68 @@
 
-![MasterHead](./banner.png)
+<p align="center">
+  <img src="./banner.png" alt="Talha Uğurlu | Software, Systems & Stories" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Talha Uğurlu</h1>
-
-<h3 align="center">Management Information Systems Student</h3>
+<h1 align="center">Talha Uğurlu</h1>
 
 <p align="center">
-  💻 Software & Game Development • Data Analytics • Artificial Intelligence
+  <strong>Software · Data · Interactive Worlds</strong><br />
+  Management Information Systems Student at Trabzon University, Türkiye
 </p>
 
 <p align="center">
-  🇹🇷 Türkiye | 🎓 Trabzon University
+  <a href="https://www.linkedin.com/in/talha-u%C4%9Furlu-851062242/">LinkedIn</a> ·
+  <a href="https://medium.com/@talhaugurlu">Writing</a> ·
+  <a href="https://www.youtube.com/@titaniumprojectarts">Titanium Project Arts</a> ·
+  <a href="mailto:talhaugurlu930@gmail.com">Email</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About me
 
-- 🎓 Management Information Systems student at Trabzon University.
-- 💻 Interested in software development, game development, data analytics and AI.
-- 🚀 Creator of **Titanium Project Arts**, a personal creative and technology initiative.
-- 📚 Currently learning and improving my Python and SQL skills.
-- 📫 Contact: **talhaugurlu930@gmail.com**
+I'm a Management Information Systems student who enjoys bringing **technical problem-solving** and **creative thinking** together. My interests span software development, databases, game systems, artificial intelligence, history, and narrative design.
 
-### 🌐 Connect with Me
+I like projects that do more than run: they should solve a real problem, explain something clearly, or create an experience worth remembering.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/talha-u%C4%9Furlu-851062242/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/talhaugurlu61" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-</a>
-<a href="https://medium.com/@talhaugurlu" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40"/>
-</a>
-<a href="https://www.youtube.com/@titaniumprojectarts" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Titanium Project Arts" height="30" width="40"/>
-</a>
-</p>
+> **Building useful systems and believable worlds — one project at a time.**
 
-### 🛠️ Languages and Tools
+### What I'm exploring
 
-<p align="left">
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-</a>
-<a href="https://www.blender.org/">
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-</a>
-<a href="https://www.unrealengine.com/">
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
-</a>
-</p>
+| Area | Focus |
+| :--- | :--- |
+| **Software & systems** | Python, object-oriented programming, practical desktop applications |
+| **Data & databases** | SQL, relational database design, analytics and business intelligence |
+| **Games & interactive media** | Gameplay systems, prototyping, worldbuilding and narrative-driven experiences |
+| **Creative technology** | AI-assisted workflows, digital production and interdisciplinary projects |
 
-### 📊 GitHub Statistics
+### Selected directions
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=talhaugurlu&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
+These are areas I am developing or planning; they are **not presented as released products**.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaugurlu&layout=compact&locale=en" alt="Top Languages"/>
-</p>
+| Initiative | Stage | Direction |
+| :--- | :--- | :--- |
+| **Desktop accounting application** | Learning / planning | A practical Python-based application for managing everyday financial records. |
+| **Narrative game concepts** | Design / experimentation | Investigation mechanics, player decisions and historically inspired interactive settings. |
+| **Titanium Project Arts** | Long-term creative initiative | A shared identity for independent software, game and storytelling projects. |
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=talhaugurlu" alt="GitHub Streak"/>
-</p>
-![Snake animation](https://raw.githubusercontent.com/talhaugurlu/talhaugurlu/output/github-contribution-grid-snake.svg)
+### Tools & technologies
+
+**Working with** · `Python` · `SQL` · `SQL Server` · `VS Code` · `Git / GitHub`
+
+**Exploring** · `Godot` · `Unity` · `Unreal Engine` · `Blender` · `AI workflows`
+
+### Beyond the code
+
+Writing and historical research have shaped how I approach technical work: I care about **structure, evidence, detail, and the experience of the person using what I build**. I am particularly interested in combining software systems with thoughtful interactive storytelling.
+
+### Where to find me
+
+- **Professional:** [LinkedIn](https://www.linkedin.com/in/talha-u%C4%9Furlu-851062242/)
+- **Writing:** [Medium](https://medium.com/@talhaugurlu)
+- **Creative projects:** [Titanium Project Arts](https://www.youtube.com/@titaniumprojectarts)
+- **Contact:** [talhaugurlu930@gmail.com](mailto:talhaugurlu930@gmail.com)
+
+---
+
+<p align="center"><sub>Research · Build · Test · Improve · Share</sub></p>
