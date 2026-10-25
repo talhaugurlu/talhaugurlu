@@ -70,3 +70,4 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=talhaugurlu" alt="GitHub Streak"/>
 </p>
+![Snake animation](https://raw.githubusercontent.com/talhaugurlu/talhaugurlu/output/github-contribution-grid-snake.svg)
