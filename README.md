@@ -1,196 +1,147 @@
+
+<!-- TALHA UĞURLU | GITHUB PROFILE -->
+<!-- Gerekli mevcut dosyalar: banner.png ve retro-tv-python.gif -->
+
 <p align="center">
-  <img src="./banner.png" alt="Talha Uğurlu Banner" width="100%" />
+  <img src="./banner.png" alt="Talha Uğurlu — GitHub profil bannerı" width="100%" />
 </p>
 
 <h1 align="center">Talha Uğurlu</h1>
 
 <p align="center">
-  <strong>Yazılım • Veri • Etkileşimli Dünyalar</strong><br>
-  <sub>Yönetim Bilişim Sistemleri Öğrencisi • Trabzon Üniversitesi • Türkiye</sub>
+  <strong>Yönetim Bilişim Sistemleri | Yazılım Geliştirme · Veri Sistemleri · Yaratıcı Teknoloji</strong><br/>
+  <sub>Trabzon Üniversitesi · Türkiye</sub>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/talha-u%C4%9Furlu-851062242/">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@talhaugurlu">
-    <img src="https://img.shields.io/badge/Medium-25233A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.youtube.com/@titaniumprojectarts">
-    <img src="https://img.shields.io/badge/Titanium_Project_Arts-F97355?style=for-the-badge&logo=youtube&logoColor=white" alt="Titanium Project Arts" />
-  </a>
-  <a href="mailto:talhaugurlu930@gmail.com">
-    <img src="https://img.shields.io/badge/E--posta-7655DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-172554?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-172554?style=flat-square&logo=databricks&logoColor=60A5FA" alt="SQL" />
-  <img src="https://img.shields.io/badge/VS_Code-172554?style=flat-square&logo=visualstudiocode&logoColor=60A5FA" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-172554?style=flat-square&logo=git&logoColor=FB923C" alt="Git" />
-  <img src="https://img.shields.io/badge/OOP-6D28D9?style=flat-square&logo=python&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/AI_Workflows-EA580C?style=flat-square&logo=openai&logoColor=white" alt="AI Workflows" />
+  <a href="https://www.linkedin.com/in/talha-u%C4%9Furlu-851062242/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@talhaugurlu"><img src="https://img.shields.io/badge/Medium-25233A?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
+  <a href="https://www.youtube.com/@titaniumprojectarts"><img src="https://img.shields.io/badge/Titanium_Project_Arts-EA580C?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Titanium Project Arts" /></a>
+  <a href="mailto:talhaugurlu930@gmail.com"><img src="https://img.shields.io/badge/E--posta-6D28D9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-posta" /></a>
 </p>
 
 ---
 
-## 📺 Python Animasyonu
+### 📺 Python Kod Animasyonu
 
 <p align="center">
-  <img src="./retro-tv-python.gif" width="100%" alt="Animated retro CRT display showing Python code" />
+  <img src="./retro-tv-python.gif" width="88%" alt="Retro CRT televizyonunda çalışan Python kodları — animasyon" />
 </p>
 
-<sub>Retro CRT tarzında Python kodu animasyonu. Profilin görsel karakterini desteklemek amacıyla eklenmiştir.</sub>
+<p align="center"><sub>Retro bilgisayar estetiğiyle hazırlanmış kişisel Python animasyonu.</sub></p>
 
 ---
 
-## 👤 Hakkımda
-
-Merhaba, ben **Talha Uğurlu**.  
-Trabzon Üniversitesi'nde **Yönetim Bilişim Sistemleri** eğitimi alıyorum ve özellikle **yazılım geliştirme**, **veri odaklı düşünme**, **oyun sistemleri**, **yaratıcı teknoloji** ve **anlatı tasarımı** ile ilgileniyorum.
-
-Teknik üretim ile yaratıcı düşünceyi aynı çizgide buluşturmayı seviyorum.  
-Benim için iyi bir proje yalnızca çalışan bir sistem değil; aynı zamanda **düzenli**, **anlamlı**, **geliştirilebilir** ve **hatırlanabilir** bir yapı olmalıdır.
-
-### İlgi alanlarım
-
-- 💻 Yazılım geliştirme
-- 🗃️ Veri sistemleri ve veritabanı mantığı
-- 🎮 Oyun sistemleri ve etkileşimli deneyimler
-- 🤖 Yapay zekâ destekli iş akışları
-- 📚 Hikâye anlatımı, tarih ve anlatı tasarımı
-
-### Çalışma yaklaşımım
-
-- Yapısal düşünmeyi önemsiyorum
-- Teknik detaylarda düzen ve açıklık arıyorum
-- Öğrendiğim konuları proje mantığıyla oturtmaya çalışıyorum
-- Uzun vadeli üretim alanları oluşturmayı hedefliyorum
-
-> **Amaç:** Faydalı sistemler ve inandırıcı dijital dünyalar üretmek.
+<table>
+  <tr>
+    <td width="56%" valign="top">
+      <h3>👤 Hakkımda</h3>
+      <p>Merhaba, ben <strong>Talha Uğurlu</strong>. Trabzon Üniversitesi Yönetim Bilişim Sistemleri ikinci sınıf öğrencisiyim.</p>
+      <p><strong>Yazılım geliştirme, veritabanları ve veri odaklı sistemler</strong> üzerine çalışırken; oyun tasarımı, tarih araştırması ve hikâye anlatıcılığıyla da ilgileniyorum.</p>
+      <p>Hedefim, teknik açıdan işlevsel ve kullanıcı açısından anlamlı dijital ürünler geliştirmek.</p>
+    </td>
+    <td width="44%" valign="top">
+      <h3>🎯 Odak Alanlarım</h3>
+      <p>💻 <strong>Yazılım:</strong> Python, OOP, uygulama geliştirme</p>
+      <p>🗄️ <strong>Veri:</strong> SQL, veritabanı tasarımı, iş zekâsı</p>
+      <p>🎮 <strong>Oyun:</strong> sistem tasarımı, prototipleme</p>
+      <p>🤖 <strong>AI:</strong> üretken araçlar ve iş akışları</p>
+      <p>📚 <strong>Araştırma:</strong> tarih, kurgu ve anlatı</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Misyon Odak Noktası
-
-Şu anda ağırlıklı olarak aşağıdaki alanlara odaklanıyorum:
-
-- 🐍 Python ve Nesne Yönelimli Programlama
-- 🗄️ SQL ve veritabanı mantığı
-- 🧱 Uygulamalı yazılım geliştirme
-- 🎮 Etkileşimli sistemler ve oyun tasarımı
-- 🤖 Yapay zekâ destekli iş akışları
-- 🧠 Analitik düşünme ve sistem kurma becerisi
-
-### Güncel öğrenme başlıkları
-
-- Python temelleri ve OOP
-- SQL sorgulama ve veri modeli mantığı
-- Git ve GitHub ile sürüm kontrolü
-- Küçük ölçekli uygulama geliştirme mantığı
-- Yaratıcı teknoloji ve dijital üretim süreçleri
-
----
-
-## 🛠️ Teknoloji Altyapısı
+### 🛠️ Teknolojiler ve Geliştirme Araçları
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,blender,unity,unreal&perline=7" />
+  <img src="https://img.shields.io/badge/Python-17365D?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-17365D?style=for-the-badge&amp;logo=postgresql&amp;logoColor=93C5FD" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-17365D?style=for-the-badge&amp;logo=git&amp;logoColor=FB923C" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-17365D?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-17365D?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=60A5FA" alt="VS Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Database_Design-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="Database Design" />
-  <img src="https://img.shields.io/badge/AI_Workflows-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Workflows" />
-  <img src="https://img.shields.io/badge/Narrative_Design-9333EA?style=for-the-badge&logo=bookstack&logoColor=white" alt="Narrative Design" />
+  <img src="https://img.shields.io/badge/SQL_Server-1D4ED8?style=flat-square&amp;logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/OOP-6D28D9?style=flat-square&amp;logoColor=white" alt="Nesne yönelimli programlama" />
+  <img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=flat-square&amp;logoColor=white" alt="Veri analitiği" />
+  <img src="https://img.shields.io/badge/Game_Design-7C3AED?style=flat-square&amp;logoColor=white" alt="Oyun tasarımı" />
+  <img src="https://img.shields.io/badge/AI_Workflows-EA580C?style=flat-square&amp;logoColor=white" alt="Yapay zekâ iş akışları" />
 </p>
 
-### Temel çalışma alanları
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Aktif öğrenim ve uygulama</strong><br/><br/>
+      🐍 Python ve nesne yönelimli programlama<br/>
+      🗃️ SQL ve ilişkisel veritabanları<br/>
+      🔧 Git, GitHub ve sürüm kontrolü<br/>
+      📊 Veri analizi ve iş zekâsı
+    </td>
+    <td width="50%" valign="top">
+      <strong>İlgilendiğim diğer alanlar</strong><br/><br/>
+      🎮 Unity / Unreal Engine / Godot<br/>
+      🎨 Blender ve dijital üretim<br/>
+      🤖 Yapay zekâ destekli iş süreçleri<br/>
+      ✍️ Anlatı, araştırma ve dünya kurgusu
+    </td>
+  </tr>
+</table>
 
-- **Python** — temel yazılım geliştirme, OOP, küçük ölçekli uygulamalar
-- **SQL** — sorgulama, tablo mantığı, veri organizasyonu
-- **Git / GitHub** — sürüm kontrolü ve proje arşivleme
-- **VS Code** — aktif geliştirme ortamı
-- **Blender / Unity / Unreal Engine** — yaratıcı teknoloji ve etkileşimli sistemler için keşif alanları
-
-### İlgi duyduğum teknik eksen
-
-- Veri sistemleri
-- Uygulama mantığı
-- Etkileşim tasarımı
-- Oyun sistemleri
-- Yapay zekâ destekli üretim
-- Dijital anlatı ve deneyim kurgusu
+<sub>Buradaki teknolojiler aktif öğrenim veya ilgi alanlarını gösterir; tamamında uzmanlık iddiası taşımaz.</sub>
 
 ---
 
-## 📁 Seçilmiş Çalışmalar
+### 📁 Seçilmiş Çalışmalar
 
-| Proje | Tanım | Anahtar Kelimeler | Durum |
-| :--- | :--- | :--- | :--- |
-| **[YBS201 — OOP Ders Kayıtları](https://github.com/talhaugurlu/YBS201-OOP-Ders-Kayitlari)** | Python OOP ders çalışmalarımı ve uygulama örneklerini topladığım kişisel arşiv | `Python` `Classes` `Methods` | ![Public](https://img.shields.io/badge/PUBLIC-2563EB?style=flat-square) |
-| **OtoAkış** | Operasyon mantığı ve iş akışı temelli özel proje fikri | `Operations` `Workflow` `Automation` | ![Private](https://img.shields.io/badge/PRIVATE-334155?style=flat-square) |
-| **Vargroup** *(çalışma başlığı)* | Finans odaklı masaüstü yazılım yönünde gelişen erken aşama fikir | `Finance` `Python` `Desktop Systems` | ![In Progress](https://img.shields.io/badge/IN_PROGRESS-7C3AED?style=flat-square) |
-| **Kan ve Şöhret** | Uzun vadeli yaratıcı evren ve anlatı odaklı proje alanı | `Worldbuilding` `Narrative` `Interactive Media` | ![Creative](https://img.shields.io/badge/CREATIVE_IP-F97316?style=flat-square) |
+| Çalışma | Alan / Anahtar Kelimeler | Durum |
+| :--- | :--- | :--- |
+| **[YBS201 — OOP Ders Kayıtları](https://github.com/talhaugurlu/YBS201-OOP-Ders-Kayitlari)** | `Python` `Classes` `Methods` | ![Public](https://img.shields.io/badge/PUBLIC-2563EB?style=flat-square) |
+| **OtoAkış** | `Operations` `Workflow` `Automation` | ![Private](https://img.shields.io/badge/PRIVATE-475569?style=flat-square) |
+| **Vargroup** *(geçici ad)* | `Finance` `Python` `Desktop` | ![Early](https://img.shields.io/badge/DEVELOPMENT-6D28D9?style=flat-square) |
+| **Kan ve Şöhret** | `Worldbuilding` `Narrative` `Interactive Media` | ![Concept](https://img.shields.io/badge/CREATIVE_UNIVERSE-EA580C?style=flat-square) |
 
-<sub>Seçilmiş çalışmalar sınırlı kamuya açık bilgiyle sunulmaktadır. Bazı projeler erken aşamadadır veya özel tutulmaktadır.</sub>
-
----
-
-## 📊 GitHub Analizleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhaugurlu&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaugurlu&layout=donut&theme=tokyonight&hide_border=true" height="170" alt="Repository language donut chart" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=talhaugurlu&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaugurlu&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
-<sub>Buradaki analiz kartları üçüncü taraf servisler tarafından sağlanmaktadır. Zaman zaman yüklenmemesi normaldir. Dil grafiği, beceri seviyesini değil depo içeriğindeki dil dağılımını yansıtır.</sub>
+<sub>Özel ve erken aşamadaki çalışmaların teknik ayrıntıları, kaynak kodları ve senaryoları paylaşılmamaktadır.</sub>
 
 ---
 
-## 🧭 Yaratıcı Yönelim
+### 📊 GitHub İstatistikleri
 
-Teknik alanların yanında; **tarih araştırması**, **edebiyat**, **hikâye anlatımı**, **kurgu üretimi** ve **dijital atmosfer tasarımı** ile de yakından ilgileniyorum.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talhaugurlu&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub genel istatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaugurlu&amp;layout=donut&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Depolardaki dil dağılımı, dairesel grafik" />
+</p>
 
-Benim için teknoloji yalnızca araç değildir; aynı zamanda fikir üretme, sistem tasarlama ve deneyim kurma alanıdır.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=talhaugurlu&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub katkı sürekliliği" />
+</p>
 
-**Titanium Project Arts**, yazılım, yaratıcı teknoloji, anlatı sistemleri ve bağımsız proje üretimi çizgisini bir araya getirmeyi hedefleyen uzun vadeli kimliğimdir.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaugurlu&amp;theme=tokyo-night&amp;hide_border=true" width="100%" alt="GitHub aktivite grafiği" />
+</p>
 
-### Bu çizgide önemsediğim kavramlar
-
-- Yapı
-- Atmosfer
-- Tutarlılık
-- İşlevsellik
-- Geliştirilebilirlik
-- Anlatısal derinlik
+<sub>Grafikler üçüncü taraf servisler tarafından oluşturulur ve zaman zaman geç yüklenebilir. Dil dağılımı, yetkinlik seviyesini değil depolardaki kodu yansıtır.</sub>
 
 ---
 
-## 📬 Benimle İletişime Geçin
+### 🌐 Yaratıcı Çalışmalar ve İlgi Alanları
+
+<p>Tarih araştırması, edebiyat ve hikâye anlatımı; yazılım projelerinde <strong>yapı, tutarlılık, ayrıntı ve kullanıcı deneyimine</strong> yaklaşımımı da etkiliyor.</p>
+
+<p><strong>Titanium Project Arts</strong>, yazılım, oyun geliştirme ve yaratıcı dijital üretim alanlarını uzun vadede bir araya getirmeyi hedeflediğim bağımsız çalışma kimliğimdir.</p>
+
+---
+
+### 📬 İletişim
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/talha-u%C4%9Furlu-851062242/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://medium.com/@talhaugurlu">Medium</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.youtube.com/@titaniumprojectarts">Titanium Project Arts</a>
-  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/talha-u%C4%9Furlu-851062242/">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://medium.com/@talhaugurlu">Medium</a> &nbsp;•&nbsp;
+  <a href="https://www.youtube.com/@titaniumprojectarts">Titanium Project Arts</a> &nbsp;•&nbsp;
   <a href="mailto:talhaugurlu930@gmail.com">E-posta</a>
 </p>
 
----
+<p align="center"><sub>Talha Uğurlu · Araştırma · Tasarım · Geliştirme</sub></p>
 
-<p align="center">
-  <strong>ARAŞTIR • TASARLA • GELİŞTİR • İYİLEŞTİR</strong><br>
-  <sub>Talha Uğurlu • Titanium Project Arts</sub>
-</p>
